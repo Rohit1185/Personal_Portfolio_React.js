@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.skill-h3{
+    display: flex;
+    justify-content: start;
+    margin: 25px 25px 0px 25px;
+}
+.skill-h3 > b{
+    color: #04B4E0;
+}
+.education-info{
+    display: flex;
+}
+.knowledge > p{
+    margin: 25px;
+}
+.knd-name{
+    padding: 20px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.knd-name > button{
+    border-radius: 25px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    margin: 5px;
+    padding: 5px;
+    height: 30px;
+    color: white;
+    width: 200px;
+
+}
+
+.emp-skill{
+    width: 300px;
+    height: 15px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 0px 0px 0px 25px;
+}
+.full-skill{
+    width: 300px;
+    height: 15px;
+    background-color: #04B4E0;
+    border-radius: 25px;
+}
+.full-skill > p{
+    font-size: small;
+    position: relative;
+    bottom: 3px;
+    display: flex;
+    justify-content: end;
+    padding-right: 5px;
+    color: black;
+}
+.emp-skill-js{
+    width: 300px;
+    height: 15px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 0px 0px 0px 25px;
+}
+.full-skill-js{
+    width: 250px;
+    height: 15px;
+    background-color: #04B4E0;
+    border-radius: 25px;
+}
+.full-skill-js > p{
+    font-size: small;
+    position: relative;
+    bottom: 3px;
+    display: flex;
+    justify-content: end;
+    padding-right: 5px;
+    color: rgb(32, 31, 31);
+}
+.emp-skill-rj{
+    width: 300px;
+    height: 15px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 0px 0px 0px 25px;
+}
+.full-skill-rj{
+    width: 150px;
+    height: 15px;
+    background-color: #04B4E0;
+    border-radius: 25px;
+}
+.full-skill-rj > p{
+    font-size: 12px;
+    position: relative;
+    bottom: 3px;
+    display: flex;
+    justify-content: end;
+    padding-right: 5px;
+    color: rgb(32, 31, 31);
+}
+
+.emp-skill-nj{
+    width: 300px;
+    height: 15px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 0px 0px 0px 25px;
+}
+.full-skill-nj{
+    width: 30px;
+    height: 15px;
+    background-color: #04B4E0;
+    border-radius: 25px;
+}
+.full-skill-nj > p{
+    font-size: 12px;
+    position: relative;
+    display: flex;
+    justify-content: end;
+    padding-right: 5px;
+    color: rgb(32, 31, 31);
+}
+.emp-skill-ej{
+    width: 300px;
+    height: 15px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 0px 0px 0px 25px;
+}
+.full-skill-ej{
+    width: 30px;
+    height: 15px;
+    background-color: #04B4E0;
+    border-radius: 25px;
+}
+.full-skill-ej > p{
+    font-size: 12px;
+    position: relative;
+    
+    display: flex;
+    justify-content: end;
+    padding-right: 5px;
+    color: rgb(32, 31, 31);
+}
+.emp-skill-md{
+    width: 300px;
+    height: 15px;
+    background-color: transparent;
+    border: 1px solid #04B4E0;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 0px 0px 0px 25px;
+}
+.full-skill-md{
+    width: 30px;
+    height: 15px;
+    background-color: #04B4E0;
+    border-radius: 25px;
+}
+.full-skill-md > p{
+    font-size: 12px;
+    position: relative;
+    
+    display: flex;
+    justify-content: end;
+    padding-right: 5px;
+    color: rgb(32, 31, 31);
+}

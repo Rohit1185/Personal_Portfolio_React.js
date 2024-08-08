@@ -1,0 +1,32 @@
+.not-found{
+    background-color: #222222;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+#text{
+    position: relative;
+    left: 300px;
+    top: 300px;
+    height: 150px;
+    text-shadow: 0px 0px 10px yellow;
+    animation: text 1s infinite;
+}
+#strange {
+    height: 500px;
+    width: 350px;
+    position: relative;
+    left: 50%;
+    top: 15%;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5000px rgb(213, 186, 14);
+}
+@keyframes text {
+    0%{
+        color: rgb(41, 206, 104);
+    }
+    100%{
+        color: aquamarine;
+    }
+}

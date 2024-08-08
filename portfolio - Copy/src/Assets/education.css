@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.education{
+    background-color:#222222;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.education > h1 > b{
+    color: #019BD6;
+}
+.edu-info{
+    margin: 50px;
+    border: 1px solid #019BD6;
+    padding: 25px;
+    width: 400px;
+    margin-left: 25%;
+}
+.edu-info > p{
+    color: #979797;
+}
+.edu-info > h4{
+    color:#d5d5d5 ;
+}
+.edu-info > h3{
+    color: aliceblue;
+}
